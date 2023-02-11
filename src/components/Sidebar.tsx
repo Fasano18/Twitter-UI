@@ -1,6 +1,6 @@
 import { Bell, BookmarkSimple, DotsThreeCircle, Envelope, FileText, Hash, House, Pencil, User } from 'phosphor-react'
 import { NavLink } from 'react-router-dom';
-import twitterLogo from '../assets/logo-twitter.svg'
+import twitterLogo from '../assets/logo-twitter.svg';
 
 import './Sidebar.css';
 
