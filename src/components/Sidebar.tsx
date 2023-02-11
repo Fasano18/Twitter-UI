@@ -36,7 +36,7 @@ export function Sidebar() {
         </a>
         <a href="">
           <User />
-          
+
           <span>Profile</span>
         </a>
         <a href="">
